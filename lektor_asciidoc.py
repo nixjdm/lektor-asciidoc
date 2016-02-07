@@ -37,4 +37,4 @@ class AsciiDocPlugin(Plugin):
     description = u'Adds AsciiDoc field type to Lektor.'
 
     def on_setup_env(self, **extra):
-        self.env.types['asciidoc'] = AsciiDocType
+        self.env.add_type(AsciiDocType)
