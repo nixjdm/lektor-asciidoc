@@ -7,5 +7,5 @@ A [Lektor](https://www.getlektor.com/) plugin to add an AsciiDoc field type.
 Add lektor-asciidoc to your project from command line:
 
 ```
-lektor plugins add lektor-atom
+lektor plugins add lektor-asciidoc
 ```

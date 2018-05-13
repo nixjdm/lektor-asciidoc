@@ -24,7 +24,7 @@ setup(
     name='lektor-asciidoc',
     py_modules=['lektor_asciidoc'],
     tests_require=['pytest'],
-    version='0.2',
+    version='0.3',
     url='https://github.com/nixjdm/lektor-asciidoc',
     classifiers=[
         'Environment :: Plugins',
